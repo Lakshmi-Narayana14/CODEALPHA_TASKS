@@ -1,39 +1,25 @@
-# Personal Portfolio Website
+# Task 3 - Personal Portfolio
 
-## 📌 Project Overview
-This project is a responsive personal portfolio website created as part of my frontend development journey. It showcases my profile, technical skills, projects, and contact information through a clean and modern interface.
+## Description
+This project is a responsive Personal Portfolio website developed as part of the CodeAlpha Frontend Development Internship. It showcases my skills, projects, and contact information with a modern and user-friendly design.
 
-## ✨ Features
-- Responsive Design
-- Modern and Clean Layout
-- About Me Section
-- Skills Section
-- Projects Showcase
-- Contact Section
-- Smooth Navigation
-- Mobile-Friendly Interface
+## Features
+- Responsive layout for all devices
+- Home, About, Skills, Projects, and Contact sections
+- Smooth navigation
+- Clean and modern user interface
+- Easy to customize and maintain
 
-## 📂 Project Structure
-```
-Task3_Portfolio/
-│── index.html
-│── style.css
-│── script.js
-│── profile.jpg
-│── project1.png
-│── project2.png
-│── project3.png
-│── project4.png
-```
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
 
-## 🎯 Purpose
-The purpose of this project is to present my skills, projects, and achievements in a professional and user-friendly portfolio website.
+## Live Demo
+https://lakshmi-narayana14.github.io/CODEALPHA_TASKS/Task3_Portfolio/
 
-## 👨‍💻 Author
-**Dangeti Sri Lakshmi Narayana**
+## GitHub Repository
+https://github.com/Lakshmi-Narayana14/CODEALPHA_TASKS
 
-### 🌐 Live Demo
-(Add your GitHub Pages link here)
-
-### 📁 GitHub Repository
-(Add your GitHub repository link here)
+## Author
+Lakshmi Narayana
